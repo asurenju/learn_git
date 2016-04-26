@@ -1,2 +1,2 @@
-Git is good
-use it from now on
+Git is good "for me"
+use it from now on "for add"
